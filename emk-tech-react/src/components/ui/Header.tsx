@@ -15,13 +15,13 @@ const Header: React.FC = () => {
         
         <div className="hidden md:flex items-center space-x-8">
           <a 
-            href="#services" 
+            href="#differentials" 
             className="text-slate-300 hover:text-cyan-400 transition-colors focus-visible:outline-2 focus-visible:outline-cyan-400"
           >
-            {t('navigation.services')}
+            Differentials
           </a>
           <a 
-            href="#technologies" 
+            href="#tech" 
             className="text-slate-300 hover:text-cyan-400 transition-colors focus-visible:outline-2 focus-visible:outline-cyan-400"
           >
             {t('navigation.technologies')}
