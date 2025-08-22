@@ -13,6 +13,7 @@
     "@hcaptcha/react-hcaptcha": "^1.12.1",
     "@hookform/resolvers": "^5.2.1",
     "@react-pdf/renderer": "^4.3.0",
+    "@tailwindcss/postcss": "^4.1.12",
     "@tailwindcss/typography": "^0.5.16",
     "@types/react-router-dom": "^5.3.3",
     "autoprefixer": "^10.4.21",
