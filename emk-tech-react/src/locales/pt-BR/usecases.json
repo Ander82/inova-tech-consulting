@@ -1,0 +1,10 @@
+{
+  "title": "Casos de Uso",
+  "items": [
+    { "title": "Finanças e Bancos", "desc": "Processamento automatizado de faturas, detecção de fraudes, reconciliações." },
+    { "title": "Saúde", "desc": "IA multimodal combinando texto médico + imagens." },
+    { "title": "Varejo e E-commerce", "desc": "Chatbots inteligentes, previsão de demanda, motores de recomendação de produtos." },
+    { "title": "Produtividade Empresarial", "desc": "Sumarização de documentos, automação de fluxos de trabalho, monitoramento de conformidade." },
+    { "title": "Logística e Cadeia de Suprimentos", "desc": "Detecção de anomalias, otimização de rotas, análise preditiva." }
+  ]
+}
