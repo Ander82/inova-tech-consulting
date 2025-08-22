@@ -1,120 +1,14 @@
 {
-  "hero": {
-    "badges": {
-      "nearshore": "Nearshore",
-      "realTime": "Real-time",
-      "costEffective": "Cost-effective"
-    },
-    "title": "Nearshore Consulting in AI, Automation & Digital Transformation",
-    "subtitle": "We help U.S. companies scale faster and reduce costs through intelligent automation, RPA, and AI-powered solutions. With top-tier Brazilian engineering talent, aligned time zones, and world-class expertise, we deliver results in real time — at a fraction of U.S. costs.",
-    "stats": {
-      "costSavings": "% Cost Savings",
-      "yearsExperience": "+ Years Experience",
-      "projectsDelivered": "+ Projects Delivered"
-    }
-  },
-  "differentials": {
-    "title": "Our Differentials",
-    "subtitle": "We combine Brazilian engineering excellence with U.S. business standards to deliver exceptional results at unbeatable value.",
-    "items": {
-      "costAdvantage": {
-        "title": "Cost Advantage",
-        "description": "Up to 50% lower than U.S. market rates, without compromising quality. Get world-class engineering talent at a fraction of the cost."
-      },
-      "realTimeCollaboration": {
-        "title": "Real-Time Collaboration",
-        "description": "Similar time zones ensure seamless communication and agile delivery. Work with our team during your business hours for maximum productivity."
-      },
-      "cuttingEdgeExpertise": {
-        "title": "Cutting-Edge Expertise",
-        "description": "From RPA and AI to multimodal applications, we bring modern solutions to your business challenges. Our team stays at the forefront of technology trends."
-      },
-      "scalableTeams": {
-        "title": "Scalable Teams",
-        "description": "Flexible engagement models — from project-based work to dedicated nearshore squads. Scale up or down based on your business needs and timeline."
-      }
-    }
-  },
-  "technologies": {
-    "title": "Technologies & Expertise",
-    "subtitle": "We master the latest technologies to deliver cutting-edge solutions that drive your business forward.",
-    "categories": {
-      "automationRpa": {
-        "title": "Automation & RPA",
-        "items": ["UiPath", "Power Automate", "AutomationEdge", "Custom Python bots"]
-      },
-      "aiLlms": {
-        "title": "Artificial Intelligence & LLMs",
-        "items": ["ChatGPT", "Claude", "Llama", "Cohere", "Azure AI", "Google Gemini"]
-      },
-      "mlDl": {
-        "title": "Machine Learning & Deep Learning",
-        "items": ["scikit-learn", "TensorFlow", "PyTorch", "NumPy", "Pandas"]
-      },
-      "dataPipelines": {
-        "title": "Data Pipelines & Big Data",
-        "items": ["Real-time processing", "Kafka", "RabbitMQ", "Optimized ingestion & ETL"]
-      },
-      "nlpRag": {
-        "title": "NLP & RAG Solutions",
-        "items": ["Embeddings", "Semantic search", "Pinecone", "FAISS", "Weaviate", "Qdrant"]
-      },
-      "multimodalAi": {
-        "title": "Multimodal AI",
-        "items": ["Text + images + structured data", "CLIP", "GPT-4o"]
-      },
-      "cloudDevops": {
-        "title": "Cloud & DevOps",
-        "items": ["AWS", "GCP", "Azure", "Docker", "Kubernetes", "Serverless Functions"]
-      },
-      "databases": {
-        "title": "Databases & Search Engines",
-        "items": ["PostgreSQL", "MongoDB", "ElasticSearch"]
-      },
-      "apis": {
-        "title": "Modern APIs & Protocols",
-        "items": ["REST", "Webhooks", "GraphQL", "gRPC"]
-      },
-      "mlops": {
-        "title": "MLOps & CI/CD",
-        "items": ["MLflow", "Weights & Biases", "GitHub Actions", "Pipeline monitoring"]
-      }
-    }
-  },
-  "useCases": {
-    "title": "Use Cases for the U.S. Market",
-    "subtitle": "Real-world applications delivering measurable business impact across industries.",
-    "items": {
-      "finance": {
-        "title": "Finance & Banking",
-        "description": "Automated invoice processing, fraud detection, reconciliations",
-        "result": "65% faster processing, 90% error reduction"
-      },
-      "healthcare": {
-        "title": "Healthcare",
-        "description": "Multimodal AI combining medical text + images",
-        "result": "40% faster diagnosis, improved accuracy"
-      },
-      "retail": {
-        "title": "Retail & E-commerce",
-        "description": "Intelligent chatbots, demand forecasting, product recommendation engines",
-        "result": "35% increase in conversion rates"
-      },
-      "enterprise": {
-        "title": "Enterprise Productivity",
-        "description": "Document summarization, workflow automation, compliance monitoring",
-        "result": "50% time savings on manual tasks"
-      },
-      "logistics": {
-        "title": "Logistics & Supply Chain",
-        "description": "Anomaly detection, route optimization, predictive analytics",
-        "result": "25% reduction in delivery times"
-      }
-    }
-  },
-  "cta": {
-    "title": "Ready to scale your business with nearshore automation and AI?",
-    "subtitle": "Let's schedule a quick call to explore how EMK Tecnologia can deliver measurable impact.",
-    "description": "Join hundreds of companies that have transformed their operations with EMK Tech. Let's discuss how we can help you achieve similar results."
-  }
+  "hero_title": "Nearshore Consulting in AI, Automation & Digital Transformation",
+  "hero_sub": "We help U.S. companies scale faster and reduce costs through intelligent automation, RPA, and AI-powered solutions. With top-tier Brazilian engineering talent, aligned time zones, and world-class expertise, we deliver results in real time — at a fraction of U.S. costs.",
+  "cta_primary": "Schedule a Call",
+  "cta_secondary": "See Use Cases",
+  "badges": ["Nearshore", "Real-time", "Cost-effective"],
+  "differentials_title": "Our Differentials",
+  "differentials": [
+    { "title": "Cost Advantage", "desc": "Up to 50% lower than U.S. market rates, without compromising quality." },
+    { "title": "Real-Time Collaboration", "desc": "Similar time zones ensure seamless communication and agile delivery." },
+    { "title": "Cutting-Edge Expertise", "desc": "From RPA and AI to multimodal applications, we bring modern solutions to your business challenges." },
+    { "title": "Scalable Teams", "desc": "Flexible engagement models — from project-based work to dedicated nearshore squads." }
+  ]
 }
