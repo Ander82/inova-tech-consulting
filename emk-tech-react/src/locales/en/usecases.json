@@ -1,0 +1,10 @@
+{
+  "title": "Use Cases",
+  "items": [
+    { "title": "Finance & Banking", "desc": "Automated invoice processing, fraud detection, reconciliations." },
+    { "title": "Healthcare", "desc": "Multimodal AI combining medical text + images." },
+    { "title": "Retail & E-commerce", "desc": "Intelligent chatbots, demand forecasting, product recommendation engines." },
+    { "title": "Enterprise Productivity", "desc": "Document summarization, workflow automation, compliance monitoring." },
+    { "title": "Logistics & Supply Chain", "desc": "Anomaly detection, route optimization, predictive analytics." }
+  ]
+}
