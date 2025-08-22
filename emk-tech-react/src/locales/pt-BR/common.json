@@ -1,0 +1,22 @@
+{
+  "navigation": {
+    "home": "Início",
+    "services": "Serviços",
+    "technologies": "Tecnologias",
+    "useCases": "Casos de Uso",
+    "contact": "Contato",
+    "scheduleCall": "Agendar Conversa"
+  },
+  "language": {
+    "en": "English",
+    "pt": "Português"
+  },
+  "buttons": {
+    "learnMore": "Saiba Mais",
+    "getStarted": "Começar",
+    "scheduleCall": "Agendar Conversa",
+    "downloadOnePager": "Baixar One-Pager",
+    "letsTalk": "Vamos Conversar",
+    "sendMessage": "Enviar Mensagem"
+  }
+}
