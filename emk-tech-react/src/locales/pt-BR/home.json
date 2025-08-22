@@ -1,120 +1,14 @@
 {
-  "hero": {
-    "badges": {
-      "nearshore": "Nearshore",
-      "realTime": "Tempo Real",
-      "costEffective": "Custo-benefício"
-    },
-    "title": "Consultoria Nearshore em IA, Automação e Transformação Digital",
-    "subtitle": "Ajudamos empresas americanas a escalar mais rápido e reduzir custos através de automação inteligente, RPA e soluções baseadas em IA. Com talento brasileiro de primeira linha, fusos horários alinhados e expertise de classe mundial, entregamos resultados em tempo real — por uma fração dos custos americanos.",
-    "stats": {
-      "costSavings": "% Economia de Custos",
-      "yearsExperience": "+ Anos de Experiência",
-      "projectsDelivered": "+ Projetos Entregues"
-    }
-  },
-  "differentials": {
-    "title": "Nossos Diferenciais",
-    "subtitle": "Combinamos excelência em engenharia brasileira com padrões de negócios americanos para entregar resultados excepcionais com valor imbatível.",
-    "items": {
-      "costAdvantage": {
-        "title": "Vantagem de Custo",
-        "description": "Até 50% menor que as taxas do mercado americano, sem comprometer a qualidade. Obtenha talento em engenharia de classe mundial por uma fração do custo."
-      },
-      "realTimeCollaboration": {
-        "title": "Colaboração em Tempo Real",
-        "description": "Fusos horários similares garantem comunicação perfeita e entrega ágil. Trabalhe com nossa equipe durante seu horário comercial para máxima produtividade."
-      },
-      "cuttingEdgeExpertise": {
-        "title": "Expertise de Ponta",
-        "description": "De RPA e IA a aplicações multimodais, trazemos soluções modernas para seus desafios de negócio. Nossa equipe está na vanguarda das tendências tecnológicas."
-      },
-      "scalableTeams": {
-        "title": "Equipes Escaláveis",
-        "description": "Modelos de engajamento flexíveis — desde trabalho baseado em projetos até squads nearshore dedicados. Escale para cima ou para baixo baseado nas suas necessidades e cronograma."
-      }
-    }
-  },
-  "technologies": {
-    "title": "Tecnologias e Expertise",
-    "subtitle": "Dominamos as tecnologias mais recentes para entregar soluções de ponta que impulsionam seu negócio.",
-    "categories": {
-      "automationRpa": {
-        "title": "Automação e RPA",
-        "items": ["UiPath", "Power Automate", "AutomationEdge", "Bots Python customizados"]
-      },
-      "aiLlms": {
-        "title": "Inteligência Artificial e LLMs",
-        "items": ["ChatGPT", "Claude", "Llama", "Cohere", "Azure AI", "Google Gemini"]
-      },
-      "mlDl": {
-        "title": "Machine Learning e Deep Learning",
-        "items": ["scikit-learn", "TensorFlow", "PyTorch", "NumPy", "Pandas"]
-      },
-      "dataPipelines": {
-        "title": "Pipelines de Dados e Big Data",
-        "items": ["Processamento em tempo real", "Kafka", "RabbitMQ", "Ingestão e ETL otimizados"]
-      },
-      "nlpRag": {
-        "title": "Soluções NLP e RAG",
-        "items": ["Embeddings", "Busca semântica", "Pinecone", "FAISS", "Weaviate", "Qdrant"]
-      },
-      "multimodalAi": {
-        "title": "IA Multimodal",
-        "items": ["Texto + imagens + dados estruturados", "CLIP", "GPT-4o"]
-      },
-      "cloudDevops": {
-        "title": "Cloud e DevOps",
-        "items": ["AWS", "GCP", "Azure", "Docker", "Kubernetes", "Funções Serverless"]
-      },
-      "databases": {
-        "title": "Bancos de Dados e Motores de Busca",
-        "items": ["PostgreSQL", "MongoDB", "ElasticSearch"]
-      },
-      "apis": {
-        "title": "APIs e Protocolos Modernos",
-        "items": ["REST", "Webhooks", "GraphQL", "gRPC"]
-      },
-      "mlops": {
-        "title": "MLOps e CI/CD",
-        "items": ["MLflow", "Weights & Biases", "GitHub Actions", "Monitoramento de pipelines"]
-      }
-    }
-  },
-  "useCases": {
-    "title": "Casos de Uso para o Mercado Americano",
-    "subtitle": "Aplicações do mundo real entregando impacto mensurável nos negócios em diversos setores.",
-    "items": {
-      "finance": {
-        "title": "Finanças e Bancos",
-        "description": "Processamento automatizado de faturas, detecção de fraudes, reconciliações",
-        "result": "65% processamento mais rápido, 90% redução de erros"
-      },
-      "healthcare": {
-        "title": "Saúde",
-        "description": "IA multimodal combinando texto médico + imagens",
-        "result": "40% diagnóstico mais rápido, precisão melhorada"
-      },
-      "retail": {
-        "title": "Varejo e E-commerce",
-        "description": "Chatbots inteligentes, previsão de demanda, motores de recomendação de produtos",
-        "result": "35% aumento nas taxas de conversão"
-      },
-      "enterprise": {
-        "title": "Produtividade Empresarial",
-        "description": "Sumarização de documentos, automação de fluxos de trabalho, monitoramento de conformidade",
-        "result": "50% economia de tempo em tarefas manuais"
-      },
-      "logistics": {
-        "title": "Logística e Cadeia de Suprimentos",
-        "description": "Detecção de anomalias, otimização de rotas, análise preditiva",
-        "result": "25% redução nos tempos de entrega"
-      }
-    }
-  },
-  "cta": {
-    "title": "Pronto para escalar seu negócio com automação e IA nearshore?",
-    "subtitle": "Vamos agendar uma conversa rápida para explorar como a EMK Tecnologia pode entregar impacto mensurável.",
-    "description": "Junte-se a centenas de empresas que transformaram suas operações com a EMK Tech. Vamos discutir como podemos ajudá-lo a alcançar resultados similares."
-  }
+  "hero_title": "Consultoria Nearshore em IA, Automação e Transformação Digital",
+  "hero_sub": "Ajudamos empresas americanas a escalar mais rápido e reduzir custos através de automação inteligente, RPA e soluções baseadas em IA. Com talento brasileiro de primeira linha, fusos horários alinhados e expertise de classe mundial, entregamos resultados em tempo real — por uma fração dos custos americanos.",
+  "cta_primary": "Agendar Conversa",
+  "cta_secondary": "Ver Casos de Uso",
+  "badges": ["Nearshore", "Tempo Real", "Custo-benefício"],
+  "differentials_title": "Nossos Diferenciais",
+  "differentials": [
+    { "title": "Vantagem de Custo", "desc": "Até 50% menor que as taxas do mercado americano, sem comprometer a qualidade." },
+    { "title": "Colaboração em Tempo Real", "desc": "Fusos horários similares garantem comunicação perfeita e entrega ágil." },
+    { "title": "Expertise de Ponta", "desc": "De RPA e IA a aplicações multimodais, trazemos soluções modernas para seus desafios de negócio." },
+    { "title": "Equipes Escaláveis", "desc": "Modelos de engajamento flexíveis — desde trabalho baseado em projetos até squads nearshore dedicados." }
+  ]
 }
