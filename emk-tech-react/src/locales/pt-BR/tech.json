@@ -1,0 +1,15 @@
+{
+  "title": "Tecnologias e Expertise",
+  "categories": [
+    { "name": "Automação e RPA", "items": ["UiPath", "Power Automate", "AutomationEdge", "Bots Python customizados"] },
+    { "name": "Inteligência Artificial e LLMs", "items": ["ChatGPT", "Claude", "Llama", "Cohere", "Azure AI", "Google Gemini"] },
+    { "name": "Machine Learning e Deep Learning", "items": ["scikit-learn", "TensorFlow", "PyTorch", "NumPy", "Pandas"] },
+    { "name": "Pipelines de Dados e Big Data", "items": ["Processamento em tempo real", "Kafka", "RabbitMQ", "Ingestão e ETL otimizados"] },
+    { "name": "Soluções NLP e RAG", "items": ["Embeddings", "Busca semântica", "Pinecone", "FAISS", "Weaviate", "Qdrant"] },
+    { "name": "IA Multimodal", "items": ["Texto + imagens + dados estruturados", "CLIP", "GPT-4o"] },
+    { "name": "Cloud e DevOps", "items": ["AWS", "GCP", "Azure", "Docker", "Kubernetes", "Funções Serverless"] },
+    { "name": "Bancos de Dados e Motores de Busca", "items": ["PostgreSQL", "MongoDB", "ElasticSearch"] },
+    { "name": "APIs e Protocolos Modernos", "items": ["REST", "Webhooks", "GraphQL", "gRPC"] },
+    { "name": "MLOps e CI/CD", "items": ["MLflow", "Weights & Biases", "GitHub Actions", "Monitoramento de pipelines"] }
+  ]
+}
