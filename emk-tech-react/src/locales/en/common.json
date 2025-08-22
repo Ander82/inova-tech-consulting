@@ -1,0 +1,22 @@
+{
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "technologies": "Technologies",
+    "useCases": "Use Cases",
+    "contact": "Contact",
+    "scheduleCall": "Schedule a Call"
+  },
+  "language": {
+    "en": "English",
+    "pt": "Português"
+  },
+  "buttons": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "scheduleCall": "Schedule a Call",
+    "downloadOnePager": "Download One-Pager",
+    "letsTalk": "Let's Talk",
+    "sendMessage": "Send Message"
+  }
+}
